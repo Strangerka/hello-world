@@ -3,7 +3,7 @@
     "description": "Hello World!",
     "minimum-stability": "dev",
     "require": {},
-    "autolad": {
+    "autoload": {
         "psr-4":{
             "Keckesova\\HelloWorld\\":"src/"
         }
