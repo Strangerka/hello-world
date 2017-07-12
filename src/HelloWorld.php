@@ -1,5 +1,5 @@
 <?php
-
+namespace keckesova\HelloWorld;
 /**
  * Created by PhpStorm.
  * User: keckesova
