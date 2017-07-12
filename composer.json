@@ -5,7 +5,7 @@
     "require": {},
     "autolad": {
         "psr-4":{
-            "Keckesova\\HelloWorld":"src/"
+            "Keckesova\\HelloWorld\\":"src/"
         }
     }
 }
